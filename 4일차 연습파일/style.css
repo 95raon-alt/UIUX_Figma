@@ -1,0 +1,26 @@
+header {
+    height: 86px;
+    background-color: #95b7e4;
+    display: flex;
+    justify-content: center;
+}
+nav {
+    background-color: red;
+}
+
+h1 {
+    background-color: blue;
+}
+
+.use-box {
+    background-color: gray;
+}
+
+main {
+    height: 400vh;
+    background-color: #976666;
+}
+footer {
+    height: 68px;
+    background-color: #d7f3a4;
+}

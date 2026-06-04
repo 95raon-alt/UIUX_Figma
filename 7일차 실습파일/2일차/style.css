@@ -83,6 +83,9 @@ main {
     background-color: #dddddd;
     border-bottom: 1px solid #000;
 }
+.sct-01 {
+    display: flex; gap: 20px;
+}
 footer {
     height: 86px;
     background-color: #FAFAFA;

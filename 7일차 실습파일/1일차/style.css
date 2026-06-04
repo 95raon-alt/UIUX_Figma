@@ -36,6 +36,8 @@ nav {
     background: #CFCFCF;
 }
 h1 {
+    width: 228px; height: 25px;
+    border-radius: 2px;
     background-color: #A8A8A8;
 }
 .use-box {

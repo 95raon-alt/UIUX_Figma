@@ -7,7 +7,6 @@ header {
 }
 nav {
     border-radius: 2px;
-    background-color: #CFCFCF;
     display: flex;
     gap: 20px;
 }
@@ -31,15 +30,42 @@ nav {
     border-radius: 2px;
     background: #CFCFCF;
 }
-.nav-box04 { 
+.nav-box05 { 
     width: 88px; height: 12px;
     border-radius: 2px;
     background: #CFCFCF;
 }
 h1 {
-    background-color: #A8A8A8;   
+    background-color: #A8A8A8;
 }
 .use-box {
+    border-radius: 2px;
+    display: flex;
+    gap: 20px;
+}
+.u-box05 {
+    width: 36px; height: 12px;
+    border-radius: 2px;
+    background-color: #CFCFCF;
+}
+.u-box04 {
+    width: 84px; height: 12px;
+    border-radius: 2px;
+    background-color: #CFCFCF;
+}
+.u-box03 {
+    width: 58px; height: 12px;
+    border-radius: 2px;
+    background-color: #CFCFCF;
+}
+.u-box02 {
+    width: 92px; height: 12px;
+    border-radius: 2px;
+    background-color: #CFCFCF;
+}
+.u-box01 {
+    width: 68px; height: 12px;
+    border-radius: 2px;
     background-color: #CFCFCF;
 }
 main {

@@ -1,0 +1,24 @@
+header {
+    height: 86px;
+    background-color: #95b7e4;
+    display: flex;
+    justify-content: space-between;
+}
+nav {
+    border-radius: 2px;
+    background-color: #CFCFCF;
+}
+h1 {
+    background-color: #A8A8A8;
+}
+.use-box {
+    background-color: grey;
+}
+main {
+    height: 2526px;
+    background-color: #976666;
+}
+footer {
+    height: 86px;
+    background-color: #d7f3a4;
+}

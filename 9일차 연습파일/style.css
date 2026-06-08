@@ -1,0 +1,15 @@
+.section01 {
+    background-color: #dfdede;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sct-01-top-box {
+    width: 950px; height: 200px;
+    background: #FFDFDF;
+}
+span {
+    border: 1px solid #000;
+    
+}

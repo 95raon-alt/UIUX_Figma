@@ -1,0 +1,22 @@
+.section-01 {
+    background-color: #dfdede;
+    height: 950px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.grid {
+    background-color: bisque;
+}
+.sct-01-top-box {
+    width: 1440px; height: 200px;
+    background-color: #FFBCBC;
+}
+.sct-01-botoom-box {
+    height: 331px;
+    background: #662323;
+}
+span {
+    border: 1px solid #000;
+    display: inline-flex; padding: 20px;
+}

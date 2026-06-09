@@ -21,10 +21,33 @@ h2 {
     padding: 10px;
     background-color: #BFBDBD;
     display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    font-size: 30px;
 }
 .m-s-t-02 {
     width: 960px; height: 700px;
     padding: 10px;
     background-color: #E2DFDF;
     display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    font-size: 30px;
+}
+.main-sl-tittle01-1 {
+    width: 1920px; height: 92px;
+    display: flex;
+    align-items: flex-end;
+    font-size: 30px;
+}
+.main-sl-tittle01-2 {
+    width: 1920px; height: 92px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    font-size: 30px;
+}
+.swiper-container-main02 {
+    width: 1920px; height: 570px;
+    background-color: red;
 }

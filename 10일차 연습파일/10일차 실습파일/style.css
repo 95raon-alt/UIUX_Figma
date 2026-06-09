@@ -1,0 +1,30 @@
+h2 {
+    color: #000;
+    font-size: 60px;
+    font-weight: 200;
+    line-height: 60px;
+    letter-spacing: -2px;
+}
+.w200 {
+    padding: 100px 60px;
+}
+.w200-01 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.main-sl-title {
+    width: 1920px; height: 700px;
+    display: flex;
+}
+.m-s-t-01 {
+    width: 960px; height: 700px;
+    padding: 10px;
+    background-color: #BFBDBD;
+    display: flex;
+}
+.m-s-t-02 {
+    width: 960px; height: 700px;
+    padding: 10px;
+    background-color: #E2DFDF;
+    display: flex;
+}

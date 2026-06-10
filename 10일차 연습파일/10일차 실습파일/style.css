@@ -15,11 +15,11 @@
 .main-sl-title {
     width: 100%; height: 700px;
     display: flex;
+    border: 1px solid #000;
 }
 .m-s-t-01 {
     width: 100%;
     padding-top: 97px; padding-right: 30px;
-    background-color: #BFBDBD;
     display: flex;
     align-items: flex-start;
     justify-content: flex-end;
@@ -27,7 +27,6 @@
 }
 .m-s-t-02 {
     width: 100%;
-    background-color: #E2DFDF;
     padding-top: 97px; padding-right: 30px;
     display: flex;
     align-items: flex-start;
@@ -50,11 +49,12 @@
 }
 .swiper-container-main02 {
     width: 100%; height: 400px;
-    background-color: red;
     display: flex;
     justify-content: space-between;
 }
 .s-c-m02-01,.s-c-m02-02,.s-c-m02-03,.s-c-m02-04,.s-c-m02-05,.s-c-m02-06 {
     border: 1px solid #000;
-    flex: 1;  
+    flex: 1;
+    display: flex;
+    align-items: flex-end;
 }

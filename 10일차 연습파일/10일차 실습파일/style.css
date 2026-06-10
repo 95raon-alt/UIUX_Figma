@@ -1,4 +1,4 @@
-h2 {
+ h2 {
     color: #000;
     font-size: 60px;
     font-weight: 200;
@@ -13,12 +13,12 @@ h2 {
     padding-bottom: 100px;
 }
 .main-sl-title {
-    width: 1920px; height: 700px;
+    width: 100%; height: 700px;
     display: flex;
 }
 .m-s-t-01 {
-    width: 960px; height: 700px;
-    padding: 10px;
+    width: 100%;
+    padding-top: 97px; padding-right: 30px;
     background-color: #BFBDBD;
     display: flex;
     align-items: flex-start;
@@ -26,28 +26,35 @@ h2 {
     font-size: 30px;
 }
 .m-s-t-02 {
-    width: 960px; height: 700px;
-    padding: 10px;
+    width: 100%;
     background-color: #E2DFDF;
+    padding-top: 97px; padding-right: 30px;
     display: flex;
     align-items: flex-start;
     justify-content: flex-end;
     font-size: 30px;
+}
+.main-sl-tittle01 {
+    width: 100%; height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
 }
 .main-sl-tittle01-1 {
-    width: 1920px; height: 92px;
-    display: flex;
-    align-items: flex-end;
     font-size: 30px;
+    padding-left: 90px;
 }
 .main-sl-tittle01-2 {
-    width: 1920px; height: 92px;
-    display: flex;
-    align-items: flex-start;
-    justify-content: flex-end;
     font-size: 30px;
+    padding-right: 90px;
 }
 .swiper-container-main02 {
-    width: 1920px; height: 570px;
+    width: 100%; height: 400px;
     background-color: red;
+    display: flex;
+    justify-content: space-between;
+}
+.s-c-m02-01,.s-c-m02-02,.s-c-m02-03,.s-c-m02-04,.s-c-m02-05,.s-c-m02-06 {
+    border: 1px solid #000;
+    flex: 1;  
 }

@@ -20,6 +20,7 @@
 .m-s-t-01 {
     width: 100%;
     padding-top: 97px; padding-right: 30px;
+    /* 이미지 */
     display: flex;
     align-items: flex-start;
     justify-content: flex-end;
@@ -56,5 +57,7 @@
     border: 1px solid #000;
     flex: 1;
     display: flex;
-    align-items: flex-end;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding-bottom: 20px;
 }

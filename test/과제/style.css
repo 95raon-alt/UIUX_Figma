@@ -1,0 +1,27 @@
+header {
+    border: 1px solid red;
+}
+main {
+    border: 1px solid red;
+}
+.Bestsellers-Section {
+    border: 3px solid orange;
+    padding: 124px 80px;
+}
+.ul-nav {
+    border: 1px solid green;
+    padding-top: 65px; padding-bottom: 65px;
+    display: flex; justify-content: space-between;
+}
+.Bestsellers {
+    border: 1px solid blue;
+}
+.View-All {
+    border: 1px solid blue;
+}
+.amp-swiper {
+    border: 1px solid green;
+}
+footer {
+    border: 1px solid red;
+}

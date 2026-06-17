@@ -21,7 +21,12 @@ main {
 }
 .amp-swiper {
     border: 1px solid green;
+    display: flex;
 }
+.best-produst-list01 {border: 3px solid red;}
+.best-produst-list02 {border: 3px solid rgb(93, 3, 3);}
+.best-produst-list03 {border: 3px solid rgb(248, 165, 165);}
+.best-produst-list04 {border: 3px solid rgb(54, 50, 50);}
 footer {
     border: 1px solid red;
 }

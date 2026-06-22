@@ -23,10 +23,38 @@ main {
     border: 1px solid green;
     display: flex;
 }
+.best-produst-list {
+    flex-grow: 1;
+}
 .best-produst-list01 {border: 3px solid red;}
 .best-produst-list02 {border: 3px solid rgb(93, 3, 3);}
 .best-produst-list03 {border: 3px solid rgb(248, 165, 165);}
 .best-produst-list04 {border: 3px solid rgb(54, 50, 50);}
+.best-img-box {
+    border: 1px solid orange;
+}
+.best-discount-title {
+    border: 1px solid orange;
+}
+.best-discount-subhead {
+    border: 1px solid orange;
+}
+.best-price {
+    border: 1px solid orange;
+}
+.best-capacity {
+    border: 3px solid orange;
+}
+.best-capacity-30ml {
+    border: 1px solid green;
+}
+.best-capacity-60ml {
+    border: 1px solid green;
+}
+.best-pro-btn {
+    border: 1px solid orange;
+}
+
 footer {
     border: 1px solid red;
 }

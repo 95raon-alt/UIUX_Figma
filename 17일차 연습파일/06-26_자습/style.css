@@ -1,0 +1,49 @@
+.popup::before {
+    content: "";
+    border: 1px solid red;
+    width: 30px;
+}
+.popup {
+    border: 1px solid red;
+    background: #E8E8E8;
+    padding-top: 12px; padding-bottom: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+.popup::after {
+    content: "x";
+    font-size: 20px;
+    cursor: pointer;
+    border: 1px solid red;
+    width: 30px; text-align: right;
+}
+.top-box {
+    border: 1px solid red;
+    padding: 16px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.meun01 {
+    border: 1px solid orange;
+    width: 388px;
+}
+.meun01-ul {
+    display: flex; gap: 16px;
+    align-items: center;
+}
+.m01-item {
+    font-size: 11px;
+    line-height: 15px; /* 136.364% */
+}
+.logo-box {
+    border: 1px solid orange;
+}
+.user-box {
+    border: 1px solid orange;
+    width: 388px;
+    display: flex;
+    justify-content: flex-end;
+}
+.user-box-ul {
+    display: flex; gap: 16px;
+}

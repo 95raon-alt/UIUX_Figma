@@ -1,0 +1,20 @@
+.static {
+    width: 100px; height: 100px;
+    background-color: red;
+    position: static;
+}
+.absolute {
+    width: 150px; height: 150px;
+    background-color: #000;
+    font-weight: 700; color: #fff;
+    position: absolute;
+    top: 0px; right: 0;
+}
+.fixed {
+    width: 200px; height: 200px;
+    background-color: red;
+}
+.relative {
+    width: 250px; height: 250px;
+    background-color: red;
+}
